@@ -25,7 +25,7 @@ ifeq ($(strip $(KEYBOARD)), handwired/tractyl_manuform/5x6_right/elite_c)
     SWAP_HANDS_ENABLE            = no
     CUSTOM_UNICODE_ENABLE        = no
     CAPS_WORD_ENABLE             = no
-    BOOTLOADER                   = qmk-hid
+    BOOTLOADER                   = qmk-hidcx
     BOOTLOADER_SIZE              = 512
 endif
 ifeq ($(strip $(KEYBOARD)), handwired/tractyl_manuform/5x6_right/teensy2pp)
