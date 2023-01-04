@@ -34,43 +34,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     { 10, 10 }
 #define RGBLIGHT_LIMIT_VAL 80
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-n
-
-
-    ===============================================================================================================================================================================}}m/=nh-=========nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
-           6
-           ======
 #define AUDIO_PIN       C6
 
 /* serial.c configuration for split keyboard */
